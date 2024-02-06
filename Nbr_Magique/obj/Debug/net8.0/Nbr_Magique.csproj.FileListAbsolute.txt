@@ -1,0 +1,15 @@
+C:\Users\julie\source\repos\Nbr_Magique\Nbr_Magique\obj\Debug\net8.0\Nbr_Magique.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\julie\source\repos\Nbr_Magique\Nbr_Magique\obj\Debug\net8.0\Nbr_Magique.AssemblyInfoInputs.cache
+C:\Users\julie\source\repos\Nbr_Magique\Nbr_Magique\obj\Debug\net8.0\Nbr_Magique.AssemblyInfo.cs
+C:\Users\julie\source\repos\Nbr_Magique\Nbr_Magique\obj\Debug\net8.0\Nbr_Magique.csproj.CoreCompileInputs.cache
+C:\Users\julie\source\repos\Nbr_Magique\Nbr_Magique\obj\Debug\net8.0\Nbr_Magique.sourcelink.json
+C:\Users\julie\source\repos\Nbr_Magique\Nbr_Magique\bin\Debug\net8.0\Nbr_Magique.exe
+C:\Users\julie\source\repos\Nbr_Magique\Nbr_Magique\bin\Debug\net8.0\Nbr_Magique.deps.json
+C:\Users\julie\source\repos\Nbr_Magique\Nbr_Magique\bin\Debug\net8.0\Nbr_Magique.runtimeconfig.json
+C:\Users\julie\source\repos\Nbr_Magique\Nbr_Magique\bin\Debug\net8.0\Nbr_Magique.dll
+C:\Users\julie\source\repos\Nbr_Magique\Nbr_Magique\bin\Debug\net8.0\Nbr_Magique.pdb
+C:\Users\julie\source\repos\Nbr_Magique\Nbr_Magique\obj\Debug\net8.0\Nbr_Magique.dll
+C:\Users\julie\source\repos\Nbr_Magique\Nbr_Magique\obj\Debug\net8.0\refint\Nbr_Magique.dll
+C:\Users\julie\source\repos\Nbr_Magique\Nbr_Magique\obj\Debug\net8.0\Nbr_Magique.pdb
+C:\Users\julie\source\repos\Nbr_Magique\Nbr_Magique\obj\Debug\net8.0\Nbr_Magique.genruntimeconfig.cache
+C:\Users\julie\source\repos\Nbr_Magique\Nbr_Magique\obj\Debug\net8.0\ref\Nbr_Magique.dll
